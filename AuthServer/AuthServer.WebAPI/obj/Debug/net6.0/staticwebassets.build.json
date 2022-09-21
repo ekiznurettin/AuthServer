@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LaV03R1RjyPsOYOlaHuvDZupdXWA0bcRYWax6wF9Weo=",
+  "Source": "AuthServer.WebAPI",
+  "BasePath": "_content/AuthServer.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
